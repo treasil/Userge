@@ -20,7 +20,7 @@ from userge.utils import get_file_id_and_ref
 
 _LOG = logging.getLogger(__name__)
 _IS_STICKER = False
-_DEFAULT = "https://t.me/theUserge/31"
+_DEFAULT = "https://telegra.ph/file/39583f6ce32130ed52662.jpg"
 _CHAT, _MSG_ID = None, None
 _LOGO_ID, _LOGO_REF = None, None
 
